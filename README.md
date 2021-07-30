@@ -1,15 +1,12 @@
 ### Hi there 👋
 
 
-**hyenial/hyenial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior Software Application developer in RPA. My background includes teaching high school Math, Science and research in environmental science. I am experienced with Full Stack development using Python-flask, PostgreSQL, and JavaScript. I look forward to using my RPA skills on IBM projects.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Javascript, Python and RPA
-- 🌱 I’m currently learning RPA
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..."mail"
-- ⚡ Fun fact: ...
-
+• Software Languages: JavaScript, HTML5, CSS, Python,
+• Frameworks and Libraries: Bootstrap, Python-Flask, jQuery, JSON, and Yalm
+• Tools: RPA in UiPath, Celonis
+• Microsoft Office: Excel, Word, PowerPoint,
+• Database: PostgreSQL
+• Operating Systems: Ubuntu-Linux
+• Cloud: AWS Lighthouse, AWS EC2
