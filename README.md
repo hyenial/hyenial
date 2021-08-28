@@ -6,7 +6,7 @@ I look forward to using my RPA skills on  projects.
 
 
 • Software Languages: JavaScript, HTML5, CSS, Python,<br>
-• Frameworks and Libraries: Bootstrap, Python-Flask, jQuery, JSON, and Yalm <br>
+• Frameworks and Libraries: Bootstrap, Python-Flask, Angular, jQuery, JSON, and Yalm <br>
 • Tools: RPA in UiPath, Celonis <br>
 • Microsoft Office: Excel, Word, PowerPoint,  <br>
 • Database: PostgreSQL <br>
