@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am a Junior Software Application developer in RPA. My background includes teaching high school Math, Science and research in environmental science. I am experienced with Full Stack development using Python-flask, PostgreSQL, and JavaScript. <br>
+I am a Junior Software Application developer in RPA and Certified in Ceonis App Creator Certification. My background includes teaching high school Math, Science and research in environmental science. I am experienced with Full Stack development using Python-flask, PostgreSQL, and JavaScript. <br>
 I look forward to using my RPA skills on  projects.
 
 
