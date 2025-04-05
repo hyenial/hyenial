@@ -5,9 +5,9 @@ I am a Software Application developer in RPA and Certified in <a href="https://w
 Currently i am working on Process mining and appplication development
 
 
-• Software Languages: JavaScript, HTML5, CSS, Python,<br>
-• Frameworks and Libraries: Bootstrap, Python-Flask, Pandas,  Angular, jQuery, JSON, and Yalm <br>
+• Software Languages: Java, Python, JavaScript <br>
+• Frameworks and Libraries:SpringBoot, Bootstrap, Python-Flask, Pandas,  Angular, , JSON, and Yalm <br>
 • Tools: RPA in UiPath, Celonis <br>
 • Database: PostgreSQL <br>
-• Operating Systems: Ubuntu-Linux, Zorin <br>
-• Cloud: AWS Lighthouse, AWS EC2 <br>
+• Operating Systems:Linux <br>
+• Cloud: AWS <br>
