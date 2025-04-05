@@ -2,7 +2,7 @@
 
 I'm **Harun**, a Software Application Developer specializing in **RPA** and **Process Mining**. I'm passionate about solving business problems using data and automation. My journey started in education and research, where I taught high school **Math and Science**, and conducted **Environmental Science** research—today, I bring that analytical mindset into software development.
 
-🔧 I work primarily with **Celonis** and **UiPath** to build intelligent, process-driven applications, and have experience in full-stack development with **Python**, **Flask**, **PostgreSQL**, and **JavaScript**.
+🔧 I work primarily with **Celonis** and **Python** to build intelligent, process-driven applications, and have experience in full-stack development with **Java** **Python**, **Flask**, **PostgreSQL**, and **JavaScript**.
 
 ---
 
@@ -32,9 +32,9 @@ I'm **Harun**, a Software Application Developer specializing in **RPA** and **Pr
 ### 💻 What I’m Working On
 
 - 🚀 Developing process mining apps with Celonis
-- ⚙️ Automating workflows and processes using RPA
+- ⚙️ Automating workflows and processes using RPA and Python
 - ☁️ Enhancing cloud skills with AWS (Cloud Practitioner & Developer tracks)
-- 🛠️ Learning `Java Spring Boot` and microservices
+- 🛠️ Doing personal projects in  `Java Spring Boot` and microservices
 
 ---
 
